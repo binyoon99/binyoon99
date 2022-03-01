@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bin
+- 👋 Hi, my name is Jamie. 
 - 👀 I’m interested in Unity(2D), Spring Java, and gaming
 - 🌱 I’m currently learning Unity 3D and Python
 - 💞️ I’m looking to collaborate on ...
