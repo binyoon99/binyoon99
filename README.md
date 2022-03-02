@@ -1,7 +1,9 @@
-- 👋 Hi, my name is Jamie. 
-- 👀 I’m interested in Unity(2D), Spring Java, and gaming
-- 🌱 I’m currently learning Unity 3D and Python
-- 💞️ I’m looking to collaborate on ...
+## 👋 Hi, my name is Jamie. 
+- 👀 I’m interested in Unity(2D), Spring Java, React, Material UI and node.js
+- 
+- 🌱 I’m currently learning Python and data science as well as how to use Intellij IDE's.
+- 
+- 💞️ I’m looking to collaborate on Making an awesome games! (Prefer 2D because I get motionsickness when I test 3D)
 - 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314
 
 <!---
