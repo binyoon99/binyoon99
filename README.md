@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Jamie. 
 
-### 👀 I’m interested in Unity(2D), Spring Java, React, Material UI and node.js.
+### 👀 I’m interested in Unity(2D), Spring Java, React, node.js, and your open source code. 
 
 ### 🌱 I’m currently learning Python and data science as well as how to use Intellij IDE's.
 
