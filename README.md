@@ -2,7 +2,7 @@
 
 ### 👀 I’m interested in Unity(2D), Spring Java, React, node.js, and your open source code. 
 
-### 🌱 I’m currently learning Python and data science as well as how to only eat white parts for oreos.
+### 🌱 I’m currently learning Python and data science as well as how to only eat white part of the oreo.
 
 ### 💞️ I’m looking to collaborate on Making an awesome games! 
         (Prefer 2D because I get motionsickness when I play 3D games, unless you wanna call 911 while testing our game.)
