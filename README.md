@@ -4,9 +4,9 @@
 
 ### 🌱 I’m currently learning Python and data science as well as how to only eat white parts for oreos.
 
-### 💞️ I’m looking to collaborate on Making an awesome games! (Prefer 2D because I get motionsickness when I test 3D)
+### 💞️ I’m looking to collaborate on Making an awesome games! (Prefer 2D because I get motionsickness when I play in 3D, unless you wanna call 911 while testing our game.)
 
-### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314
+### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314 or just yell JAMIE YOON really loudly in your room and I'll come.
 
 <!---
 binyoon99/binyoon99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
