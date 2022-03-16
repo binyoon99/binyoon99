@@ -1,6 +1,7 @@
 ## 👋 Hi, my name is Jamie. 
 
 ### 👀 I’m interested in Unity(2D), Spring Java, React, node.js, and your open source code. 
+### My main interest is Java, and C#. I'm currently doing a mobile app development using Kotlin instead of java with Android Studio Bumblebee 
 
 ### 🌱 I’m currently learning Python and data science as well as how to only eat white part of the oreo.
 
