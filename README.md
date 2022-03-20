@@ -5,9 +5,6 @@
 
 ### 🌱 I’m currently learning Python and data science as well as how to only eat white part of the oreo.
 
-### 💞️ I’m looking to collaborate on Making an awesome games! 
-        (Prefer 2D because I get motionsickness when I play 3D games, unless you wanna call 911 while testing our game.)
-
 ### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314 or just yell JAMIE YOON really loudly in your room and I'll come.
 
 <!---
