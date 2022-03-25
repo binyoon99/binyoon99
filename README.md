@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Jamie. 
 
-### 👀 I’m interested in Unity(2D), Java, React, node.js, and your open source code. 
+### 👀 I’m interested in Unity(2D), Java, React, node.js, and ways to improve my skills.
 ### My main interest is Java, and C#. 
     But I'm currently trying to learn Web develop including React and Node.js in depth using MERN.
 
