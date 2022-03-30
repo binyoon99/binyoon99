@@ -8,7 +8,7 @@
     as well as XAMPP: php, apache, phpmyadmin
 
 ### Things I want to learn in Future 
-  - Mobile App development using Android Studio (Kotlin)
+  - Flutter
   - sql in depth 
   - vue.js (not my priority)
   - AR
