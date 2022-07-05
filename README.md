@@ -1,20 +1,7 @@
-## 👋 Hi, my name is Jamie. 
+## 👋 Hi, my name is Heather.
+### 👀 I like Java.
 
-### 👀 I’m interested in Unity(2D), Java, React, node.js, and ways to improve my skills.
-### My main interest is Java, and C#. 
-    But I'm currently trying to learn Web develop including React and Node.js in depth using MERN.
-
-### 🌱 I’m currently learning Python and data science in school using Anaconda.
-    as well as XAMPP: php, apache, phpmyadmin
-
-### Things I want to learn in Future 
-  - Flutter
-  - sql in depth 
-  - vue.js (not my priority)
-  - AR
-
-
-### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314 or just yell JAMIE YOON really loudly in your room and I'll come.
+### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314 or just yell Heather YOON really loudly in your room and I'll come.
 
 <!---
 binyoon99/binyoon99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
