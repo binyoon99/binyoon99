@@ -4,7 +4,7 @@
 ### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314 or just yell Heather YOON really loudly in your room and I'll come.
 
 ### My Blog
-[binyoon99 Blog](https://binyoon99.github.io/)
+[binyoon99 Blog](https://binyoon99.github.io/) [![pages-build-deployment](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment)
 
 [Nature Cat](www.naturecat.ca)
 - ProtoType
