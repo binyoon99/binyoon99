@@ -19,13 +19,13 @@
   - backend is serverless and used AWS Lambda to get REST API
 
 
-[Nature Cat](https://naturecat.ca/login.html)
+~~[Nature Cat](https://naturecat.ca/login.html)~~ Website is nuked -> new project `Mountain Cat`
 - Website is down due to security problem
   - couldn't hide my api keys using .env or local env variables.
   - therefore github link is private
 - plain html/css and vanila javascript 
 - Firebase
-- will transition to react/next.js and supabase (free and opensource version of firebase)
+- New project `Mountain Cat` will be in react/next.js and supabase (free and opensource version of firebase)
 
 ### My future projects
 Picturino (solo development)
