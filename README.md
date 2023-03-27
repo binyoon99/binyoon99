@@ -1,7 +1,8 @@
 ## 👋 Hi, my name is Heather.
 ### 👀 I like Java and backend development using javascript. I can do frontend with the help of google but I prefer backend. 
 
-### 📫 How to reach me binyoon99@gmail.com or Discord Bin#0314 or just yell Heather YOON really loudly in your room and I'll come.
+### 📫 How to reach me 
+## binyoon99@gmail.com or Discord Bin#0314 or just yell Heather YOON really loudly in your room and I'll come.
 
 ### My currnet Web Progjects
 [binyoon99 Blog](https://binyoon99.github.io/) [![pages-build-deployment](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment)
@@ -12,15 +13,15 @@
 
 - used openAI libraries and ChatGPT3.5 turbo 
 - Frontend : plain HTML/ CSS and vanila JS 
- - hosted via Cloudflare
- - a friend is helping the design and the UI of the website, will add him as contributor soon
+  - hosted via Cloudflare
+  - a friend is helping the design and the UI of the website, will add him as contributor soon
 - Backend : node.js with express framework 
- - backend is serverless and used AWS Lambda to get REST API
+  - backend is serverless and used AWS Lambda to get REST API
 
 
 [Nature Cat](https://naturecat.ca/login.html)
 - Website is down due to security problem
- - couldn't hide my api keys using .env or local env variables.
+  - couldn't hide my api keys using .env or local env variables.
 - plain html/css and vanila javascript 
 - Firebase
 - will transition to react/next.js and supabase (free and opensource version of firebase)
