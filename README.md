@@ -29,6 +29,8 @@
 
 ### My future projects
 Picturino (solo development)
+- react/ next.js 
+- no backend
 
 GitLawnHub (Team development)
  
