@@ -20,7 +20,7 @@
 - Website is down due to security problem
 - plain html/css and vanila javascript 
 - Firebase
-- will transfer to next.js and supabase (free and opensource version of firebase)
+- will transition to react/next.js and supabase (free and opensource version of firebase)
 
 <!---
 binyoon99/binyoon99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
