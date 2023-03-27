@@ -5,11 +5,11 @@
 ## binyoon99@gmail.com or Discord Bin#0314 or just yell Heather YOON really loudly in your room and I'll come.
 
 ### My currnet Web Progjects
-[binyoon99 Blog](https://binyoon99.github.io/) [![pages-build-deployment](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment)
+[binyoon99 Blog](https://binyoon99.github.io/) / [Github Link](https://github.com/binyoon99/binyoon99.github.io) [![pages-build-deployment](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment)
 - jekyll to generate the website
 - utterances for comment 
 
-[Fortune telling AI](https://chatdodge-ko.pages.dev)
+[Fortune telling AI](https://chatdodge-ko.pages.dev) / [Github Link] (https://github.com/binyoon99/chatGPT3.5-fortuneTelling-AI)
 
 - used openAI libraries and ChatGPT3.5 turbo 
 - Frontend : plain HTML/ CSS and vanila JS 
@@ -22,6 +22,7 @@
 [Nature Cat](https://naturecat.ca/login.html)
 - Website is down due to security problem
   - couldn't hide my api keys using .env or local env variables.
+  - therefore github link is private
 - plain html/css and vanila javascript 
 - Firebase
 - will transition to react/next.js and supabase (free and opensource version of firebase)
