@@ -9,7 +9,7 @@
 - jekyll to generate the website
 - utterances for comment 
 
-[Fortune telling AI](https://chatdodge-ko.pages.dev) / [Github Link] (https://github.com/binyoon99/chatGPT3.5-fortuneTelling-AI)
+[Fortune telling AI](https://chatdodge-ko.pages.dev) / [Github Link](https://github.com/binyoon99/chatGPT3.5-fortuneTelling-AI)
 
 - used openAI libraries and ChatGPT3.5 turbo 
 - Frontend : plain HTML/ CSS and vanila JS 
