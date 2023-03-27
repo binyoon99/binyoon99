@@ -5,9 +5,22 @@
 
 ### My Blog
 [binyoon99 Blog](https://binyoon99.github.io/) [![pages-build-deployment](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment)
+- jekyll to generate the website
+- utterances for comment 
 
-[Nature Cat](www.naturecat.ca)
-- ProtoType
+[Fortune telling AI](https://chatdodge-ko.pages.dev)
+
+- used openAI libraries and ChatGPT3.5 turbo 
+- plain HTML/ CSS and vanila JS + node.js with express framework 
+- hosted frontend via Cloudflare
+- backend is serverless and used AWS Lambda to get REST API
+
+
+[Nature Cat](https://naturecat.ca/login.html)
+- Website is down due to security problem
+- plain html/css and vanila javascript 
+- Firebase
+- will transfer to next.js and supabase (free and opensource version of firebase)
 
 <!---
 binyoon99/binyoon99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
