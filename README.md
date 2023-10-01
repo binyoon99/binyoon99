@@ -2,7 +2,7 @@
 ### 👀 I like Java and backend development using javascript. I can do frontend with the help of google but I prefer backend. 
 
 ### 📫 How to reach me 
-## binyoon99@gmail.com or Discord Bin#0314 or just yell Heather YOON really loudly in your room and I'll come.
+## binyoon99@gmail.com or Discord Bin#0314 or just yell Heather loudly in your room and I'll come.
 
 ### My currnet Web Projects
 [binyoon99 Blog](https://binyoon99.github.io/) / [Github Link](https://github.com/binyoon99/binyoon99.github.io) [![pages-build-deployment](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/binyoon99/binyoon99.github.io/actions/workflows/pages/pages-build-deployment)
