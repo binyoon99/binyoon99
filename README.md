@@ -1,6 +1,5 @@
-## 👋 Hi, my name is Heather.
-### 👀 I like Java and backend development using javascript. I can do frontend with the help of google but I prefer backend. 
-
+## 👋 Hi, my name is Binton
+### 👀 I like Java and backend development.
 ### 📫 How to reach me 
 ## binyoon99@gmail.com or Discord Bin#0314 or just yell Heather loudly in your room and I'll come.
 
